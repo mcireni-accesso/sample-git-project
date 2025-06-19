@@ -20,7 +20,7 @@ public class SampleClass {
 
     System.out.println("Conflict - feature branch - sample class");
 
-    System.out.println("Conflict - main branch - sample class");
+    //System.out.println("Conflict - main branch - sample class");
 
     //changes made from git hub
   }
