@@ -9,6 +9,8 @@ public class Main {
     System.out.println("Conflict - main branch");
 
     //modification made in feature branch SIT-15960
+
+    //modification made in feature branch DEV create from eclipse
   }
 
 }
