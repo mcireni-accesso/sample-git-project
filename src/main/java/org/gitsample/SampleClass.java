@@ -17,7 +17,11 @@ public class SampleClass {
   }
 
   public static void main(String[] args) {
+
     System.out.println("Conflict - feature branch - sample class");
+
+    System.out.println("Conflict - main branch - sample class");
+
     //changes made from git hub
   }
 
